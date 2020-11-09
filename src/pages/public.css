@@ -1,0 +1,30 @@
+.user-wrapper{
+    padding: 20px;
+}
+.list-wrapper{
+    width:100%;
+    height:auto;
+    padding:20px;
+    border-radius: 15px;
+    background: #f7f7f7;
+    margin-bottom: 20px;
+}
+.search-input{
+    font-size:14px;
+    display:flex;
+    align-items:center
+}
+.sea-btns{
+    display: flex;
+    margin-top:20px;
+    justify-content: flex-end
+}
+.dialog {
+  width: 55%;
+  margin: 0 auto;
+}
+.pag{
+  display:flex;
+  justify-content:flex-end;
+  margin-top:20px
+}
